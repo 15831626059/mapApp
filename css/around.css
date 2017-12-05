@@ -20,7 +20,7 @@
 }
 /*----顶部定位----*/
 .wrap .header #location{
-	background-image: url(../img/定位1.png);
+	background-image: url(/img/location1.png);
 	background-repeat: no-repeat;
 	padding-left: 23px;
 	background-position-y: 12px;
@@ -48,6 +48,7 @@
 	background-color: #1771B8;
 	letter-spacing: 3px;
 	border: 1px solid #ccc;
+	font-size:12px;
 }
 input::-webkit-input-placeholder{
 	color: #B5D5EC;
