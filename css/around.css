@@ -91,7 +91,8 @@ input::-ms-input-placeholder{
 /*----商家信息显示-----*/
 #content{
 	float: left;
-	padding: 5% 5%;	
+	padding: 5% 5%;
+	width: 90%;	
 }
 .con{
 	height: 100px;
